@@ -1,0 +1,38 @@
+{
+  "author": {
+    "name": "duongdq"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  },
+  "description": "A gulp plugin to append the content hash to filenames.",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-if": "^2.0.1",
+    "mocha": "^3.0.2",
+    "should": "^11.1.0"
+  },
+  "keywords": [
+    "gulpplugin",
+    "revision",
+    "rev",
+    "version"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "duongdq",
+      "email": "duongdq@gmail.com"
+    }
+  ],
+  "name": "gulp-frev",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongdq/gulp-frev.git"
+  },
+  "version": "1.0.0"
+}
